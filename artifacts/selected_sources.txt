@@ -1,0 +1,2 @@
+# Add student-selected direct media URLs here, one per line.
+# Do not treat this file as a clip list until the student has independently chosen sources.
